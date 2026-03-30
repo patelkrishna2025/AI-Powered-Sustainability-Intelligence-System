@@ -166,10 +166,10 @@ Image/Video Frame
          Annotated Frame + Dashboard Alert
 ```
 ## Future Work & Extensions
-•	*Integrate real-time air quality API (OpenAQ) for live dashboard updates
-•	*Add satellite imagery pipeline using Google Earth Engine for automated deforestation monitoring
-•	*Deploy pre-trained YOLOv8 model for more accurate CV environmental detection
-•	*Implement Prophet or N-BEATS for improved time-series forecasting
+**Integrate real-time air quality API (OpenAQ) for live dashboard updates
+**Add satellite imagery pipeline using Google Earth Engine for automated deforestation monitoring
+**Deploy pre-trained YOLOv8 model for more accurate CV environmental detection
+**Implement Prophet or N-BEATS for improved time-series forecasting
 •	*Add country-level policy recommendation engine based on score trajectory
 •	*Deploy dashboard to Streamlit Cloud for public access
 •	*Integrate carbon credit market data to correlate emission changes with pricing
