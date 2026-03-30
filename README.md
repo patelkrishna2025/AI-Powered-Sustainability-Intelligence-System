@@ -166,24 +166,24 @@ Image/Video Frame
          Annotated Frame + Dashboard Alert
 ```
 ## Future Work & Extensions
-**Integrate real-time air quality API (OpenAQ) for live dashboard updates
-**Add satellite imagery pipeline using Google Earth Engine for automated deforestation monitoring
-**Deploy pre-trained YOLOv8 model for more accurate CV environmental detection
-**Implement Prophet or N-BEATS for improved time-series forecasting
-•	*Add country-level policy recommendation engine based on score trajectory
-•	*Deploy dashboard to Streamlit Cloud for public access
-•	*Integrate carbon credit market data to correlate emission changes with pricing
-•	*Build mobile app wrapper using Streamlit's mobile-responsive layout
+- **Integrate real-time air quality API (OpenAQ) for live dashboard updates**
+- **Add satellite imagery pipeline using Google Earth Engine for automated deforestation monitoring**
+- **Deploy pre-trained YOLOv8 model for more accurate CV environmental detection**
+- **Implement Prophet or N-BEATS for improved time-series forecasting**
+- **Add country-level policy recommendation engine based on score trajectory**
+- **Deploy dashboard to Streamlit Cloud for public access**
+- **Integrate carbon credit market data to correlate emission changes with pricing**
+- **Build mobile app wrapper using Streamlit's mobile-responsive layout**
 
 ## References & Data Sources
-•	*Our World in Data (2024). CO2 and Greenhouse Gas Emissions. ourworldindata.org/co2-and-greenhouse-gas-emissions
-•	*Liu, F.T., Ting, K.M. and Zhou, Z.H. (2008). Isolation Forest. IEEE ICDM 2008.
-•	*Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12.
-•	*Hochreiter, S. and Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.
-•	*Holt, C.E. (1957). Forecasting Seasonals and Trends by Exponentially Weighted Averages.
-•	*Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
-•	*Streamlit Inc. (2024). Streamlit Documentation. docs.streamlit.io
-•	*Climate Change Performance Index (2024). Climate Action Network. ccpi.org
+- **Our World in Data (2024). CO2 and Greenhouse Gas Emissions. ourworldindata.org/co2-and-greenhouse-gas-emissions**
+- **Liu, F.T., Ting, K.M. and Zhou, Z.H. (2008). Isolation Forest. IEEE ICDM 2008.**
+- **Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12.**
+- **Hochreiter, S. and Schmidhuber, J. (1997). Long Short-Term Memory. Neural Computation.**
+- **Holt, C.E. (1957). Forecasting Seasonals and Trends by Exponentially Weighted Averages.**
+- **Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.**
+- **Streamlit Inc. (2024). Streamlit Documentation. docs.streamlit.io**
+- **Climate Change Performance Index (2024). Climate Action Network. ccpi.org**
 
 
 
