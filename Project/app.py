@@ -1,14 +1,8 @@
 """
 =============================================================
  AI-Powered Sustainability Intelligence System
- MODULE: Interactive Streamlit Dashboard  (v3 — updated)
+ MODULE: Interactive Streamlit Dashboard  
  Run:  streamlit run app.py
- NEW in v3:
-   • Tab 8 – Weather Prediction (NEW) — RF Climate Engine
-   • New folder: weather/ with WeatherPredictionEngine
-   • Forecast: Temperature, Precipitation, Humidity (6–36 months)
-   • Seasonal radar chart, extreme events detection
-   • Notebook: Section 10 — Weather Prediction Demo added
 =============================================================
 """
 
