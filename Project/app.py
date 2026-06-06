@@ -14,6 +14,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import sys, os, io
 import matplotlib.pyplot as plt
+import plotly.express as px
 from PIL import Image
 
 # ── Path setup ─────────────────────────────────────────────
