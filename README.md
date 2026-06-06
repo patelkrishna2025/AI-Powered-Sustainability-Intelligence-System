@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Sustainability Intelligence System 
+# 🌍 AI-Powered Sustainability Intelligence System
 
 ## 📁 Project Structure
 
@@ -6,6 +6,7 @@
 Project/
 ├── app.py                          ← Streamlit dashboard 
 ├── README.md                       ← This file
+├── requirements.txt                ← Project dependencies
 │
 ├── chatbot/                        ← Rule-based Chatbot module
 │   └── sustainability_chatbot.py
@@ -32,6 +33,22 @@ Project/
 ├── assets/                         ← Static assets (CSS, logos)
 └── images/
     └── profile.png
+```
+
+## 📦 requirements.txt
+
+```txt
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+Pillow
+opencv-python-headless
 ```
 
 ## 🚀 How to Run
